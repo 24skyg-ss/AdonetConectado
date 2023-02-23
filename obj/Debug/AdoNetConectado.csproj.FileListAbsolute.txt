@@ -1,0 +1,24 @@
+D:\Personal\CLASES\SISE\CURSOS\Soluciones Empresariales\ENE-23\Ejemplos\AdoNetConectado\bin\Debug\AdoNetConectado.exe.config
+D:\Personal\CLASES\SISE\CURSOS\Soluciones Empresariales\ENE-23\Ejemplos\AdoNetConectado\bin\Debug\AdoNetConectado.exe
+D:\Personal\CLASES\SISE\CURSOS\Soluciones Empresariales\ENE-23\Ejemplos\AdoNetConectado\bin\Debug\AdoNetConectado.pdb
+D:\Personal\CLASES\SISE\CURSOS\Soluciones Empresariales\ENE-23\Ejemplos\AdoNetConectado\obj\Debug\AdoNetConectado.csproj.AssemblyReference.cache
+D:\Personal\CLASES\SISE\CURSOS\Soluciones Empresariales\ENE-23\Ejemplos\AdoNetConectado\obj\Debug\AdoNetConectado.csproj.SuggestedBindingRedirects.cache
+D:\Personal\CLASES\SISE\CURSOS\Soluciones Empresariales\ENE-23\Ejemplos\AdoNetConectado\obj\Debug\AdoNetConectado.frmTipoCliente.resources
+D:\Personal\CLASES\SISE\CURSOS\Soluciones Empresariales\ENE-23\Ejemplos\AdoNetConectado\obj\Debug\AdoNetConectado.Properties.Resources.resources
+D:\Personal\CLASES\SISE\CURSOS\Soluciones Empresariales\ENE-23\Ejemplos\AdoNetConectado\obj\Debug\AdoNetConectado.csproj.GenerateResource.cache
+D:\Personal\CLASES\SISE\CURSOS\Soluciones Empresariales\ENE-23\Ejemplos\AdoNetConectado\obj\Debug\AdoNetConectado.csproj.CoreCompileInputs.cache
+D:\Personal\CLASES\SISE\CURSOS\Soluciones Empresariales\ENE-23\Ejemplos\AdoNetConectado\obj\Debug\AdoNetConectado.exe
+D:\Personal\CLASES\SISE\CURSOS\Soluciones Empresariales\ENE-23\Ejemplos\AdoNetConectado\obj\Debug\AdoNetConectado.pdb
+D:\Personal\CLASES\SISE\CURSOS\Soluciones Empresariales\ENE-23\Ejemplos\AdoNetConectado\obj\Debug\AdoNetConectado.frmTipoClienteEdit.resources
+C:\Users\USER\Downloads\Sebastian - Recursos\AdoNetConectado\bin\Debug\AdoNetConectado.exe.config
+C:\Users\USER\Downloads\Sebastian - Recursos\AdoNetConectado\bin\Debug\AdoNetConectado.exe
+C:\Users\USER\Downloads\Sebastian - Recursos\AdoNetConectado\bin\Debug\AdoNetConectado.pdb
+C:\Users\USER\Downloads\Sebastian - Recursos\AdoNetConectado\obj\Debug\AdoNetConectado.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\Sebastian - Recursos\AdoNetConectado\obj\Debug\AdoNetConectado.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Downloads\Sebastian - Recursos\AdoNetConectado\obj\Debug\AdoNetConectado.frmTipoCliente.resources
+C:\Users\USER\Downloads\Sebastian - Recursos\AdoNetConectado\obj\Debug\AdoNetConectado.frmTipoClienteEdit.resources
+C:\Users\USER\Downloads\Sebastian - Recursos\AdoNetConectado\obj\Debug\AdoNetConectado.Properties.Resources.resources
+C:\Users\USER\Downloads\Sebastian - Recursos\AdoNetConectado\obj\Debug\AdoNetConectado.csproj.GenerateResource.cache
+C:\Users\USER\Downloads\Sebastian - Recursos\AdoNetConectado\obj\Debug\AdoNetConectado.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\Sebastian - Recursos\AdoNetConectado\obj\Debug\AdoNetConectado.exe
+C:\Users\USER\Downloads\Sebastian - Recursos\AdoNetConectado\obj\Debug\AdoNetConectado.pdb

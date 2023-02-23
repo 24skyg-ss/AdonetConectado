@@ -1,0 +1,12 @@
+C:\Users\USER\Downloads\Sebastian - Recursos\AdoNetConectado\bin\Debug\AdoNetConectado.exe.config
+C:\Users\USER\Downloads\Sebastian - Recursos\AdoNetConectado\bin\Debug\AdoNetConectado.exe
+C:\Users\USER\Downloads\Sebastian - Recursos\AdoNetConectado\bin\Debug\AdoNetConectado.pdb
+C:\Users\USER\Downloads\Sebastian - Recursos\AdoNetConectado\obj\Debug\GamarraSebastian_AdoNetConectado.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\Sebastian - Recursos\AdoNetConectado\obj\Debug\GamarraSebastian_AdoNetConectado.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Downloads\Sebastian - Recursos\AdoNetConectado\obj\Debug\AdoNetConectado.frmTipoCliente.resources
+C:\Users\USER\Downloads\Sebastian - Recursos\AdoNetConectado\obj\Debug\AdoNetConectado.frmTipoClienteEdit.resources
+C:\Users\USER\Downloads\Sebastian - Recursos\AdoNetConectado\obj\Debug\AdoNetConectado.Properties.Resources.resources
+C:\Users\USER\Downloads\Sebastian - Recursos\AdoNetConectado\obj\Debug\GamarraSebastian_AdoNetConectado.csproj.GenerateResource.cache
+C:\Users\USER\Downloads\Sebastian - Recursos\AdoNetConectado\obj\Debug\GamarraSebastian_AdoNetConectado.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\Sebastian - Recursos\AdoNetConectado\obj\Debug\AdoNetConectado.exe
+C:\Users\USER\Downloads\Sebastian - Recursos\AdoNetConectado\obj\Debug\AdoNetConectado.pdb
